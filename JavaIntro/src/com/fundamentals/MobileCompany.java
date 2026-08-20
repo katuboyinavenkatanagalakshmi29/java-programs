@@ -6,7 +6,7 @@ package com.fundamentals;
 	static String Company = "TATA ELECTRONICS";
 	
 	String model = "New model";
-	String Brand = "New Brand" ;
+	String Brand = "New Brand";
 	int price = 80000;
 	
 	static {
@@ -40,6 +40,10 @@ package com.fundamentals;
 		MobileCompany m1 = new MobileCompany();
 		MobileCompany m2= new MobileCompany();
 		MobileCompany m3= new MobileCompany();
+		MobileCompany m4= new MobileCompany();
+		
+		System.out.println("MobileName :"+ MobileName);
+		System.out.println("companyName:"+ Company);
 		 
 		 
 		m1.model = "New model";
