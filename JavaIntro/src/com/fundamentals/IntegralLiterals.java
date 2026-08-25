@@ -52,16 +52,6 @@ public class IntegralLiterals {
 		System.out.println(s3);
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }
