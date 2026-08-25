@@ -2,8 +2,7 @@ package com.fundamentals;
 
 
  class Student3 {
-
-	
+	 
 	int id;
 	String name;
 	Addresses address;
