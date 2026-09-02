@@ -10,17 +10,17 @@ public class TestDemo1 {
 		int i1 = 100;
 		System.out.println(i1);
 		
-		// int to Integer coverting as auto - boxing
+		// int to Integer converting as auto - boxing
 		
 		Integer i2 = i1;      
 		System.out.println(i2);
 		
-		// Integer to int coverting as auto - unboxing
+		// Integer to int converting as auto - unboxing
 		
 		int i3 = i2;
 		System.out.println(i3);
 		
-		// int to Integer coverting as auto - boxing
+		// int to Integer converting as auto - boxing
 		
 		Integer i4 = i3;
 		System.out.println(i4);
